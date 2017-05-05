@@ -1,0 +1,15 @@
+
+box.cmdline=
+box.encrypt=1
+box.pattern=*.*
+box.separate=0
+box.sepfile=
+box.ziplevel=1
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=C:\Users\Administrator\Desktop\¼ÆËãÆ÷\³ÌÐò\Calc\Debug\Calc.exe
+exe.target=Calc.exe.exe
+key.0=61A4E78B8D104B76508D9DB7BDB9B789
+key.1=3B686478905332822874AD11A9EC7B31
+
